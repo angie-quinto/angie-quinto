@@ -1,4 +1,4 @@
-# Hey, I'm Angie 👋
+# Hii, I'm Angie 👋
 
 I'm a software engineer from the Philippines who likes building things just to see if I can.
 
