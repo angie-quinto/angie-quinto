@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Angie 👋
 
-<!--
-**angie-quinto/angie-quinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from the Philippines who likes building things just to see if I can.
 
-Here are some ideas to get you started:
+Most of my projects start with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Hmm... I wonder if I could make this myself."*
+
+### 🔨 What I'm building
+
+🐾 **Pet Smart**  
+A pet management app I'm building from scratch with React, TypeScript, .NET and PostgreSQL.
+
+📱 **Check-In**  
+An Android project I'm experimenting with while learning more about mobile development.
+
+🤖 **AI experiments**  
+Trying out local AI, automation, and ways to make computers do more useful things.
+
+### 🧪 Things I'm currently exploring
+
+- Clean Architecture & Domain-Driven Design
+- .NET / C#
+- React & TypeScript
+- PostgreSQL
+- AWS
+- Android development
+- AI-assisted development
+- Building small tools that solve annoying problems
+
+### 🛠️ Stuff I use
+
+`C#` `Java` `ASP.NET Core` `TypeScript` `React` `PostgreSQL` `SQL` `AWS`
+
+### 🌱 Outside of work
+
+When I'm not building something, I'm usually trying new food, exploring new places, traveling whenever I get the chance, or hanging out with my cats.
+
+Basically: good food, new places, and too many cats. 🐈
+
+
+---
+
+📍 Philippines · 💻 Software Engineer · 🐾 Cat person
