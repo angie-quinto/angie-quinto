@@ -2,10 +2,6 @@
 
 I'm a software engineer from the Philippines who likes building things just to see if I can.
 
-Most of my projects start with:
-
-> *"Hmm... I wonder if I could make this myself."*
-
 ### 🔨 What I'm building
 
 🐾 **Pet Journal**  
