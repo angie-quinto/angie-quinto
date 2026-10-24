@@ -8,11 +8,8 @@ Most of my projects start with:
 
 ### 🔨 What I'm building
 
-🐾 **Pet Smart**  
-A pet management app I'm building from scratch with React, TypeScript, .NET and PostgreSQL.
-
-📱 **Check-In**  
-An Android project I'm experimenting with while learning more about mobile development.
+🐾 **Pet Journal**  
+A pet management app I'm building from scratch.
 
 🤖 **AI experiments**  
 Trying out local AI, automation, and ways to make computers do more useful things.
